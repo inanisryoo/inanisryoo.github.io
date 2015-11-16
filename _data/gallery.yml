@@ -1,6 +1,10 @@
-﻿- image_thumb: doctor.jpg
-  image_large: doctor.jpg
-  image_alt: 조상호
+﻿- image_thumb: 1_1.jpg
+  image_large: 1_1.jpg
+  image_alt: test
+
+- image_thumb: 1_2.jpg
+  image_large: 1_2.jpg
+  image_alt: test
 
 - image_thumb: gallery-small2.jpg
   image_large: gallery-large.jpg
